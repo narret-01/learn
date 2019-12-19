@@ -1,3 +1,9 @@
 git leasons
 =app
 == branch_1
+
+
+
+new add's for sec branch 
+commit commit commit commit
+
