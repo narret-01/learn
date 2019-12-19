@@ -1,5 +1,6 @@
 git leasons
 =app
+<<<<<<< HEAD
 == branch_1
 
 
@@ -7,3 +8,8 @@ git leasons
 new add's for sec branch 
 commit commit commit commit
 
+=======
+master branch
+more more changes!
+let's make new commit in master branch
+>>>>>>> master
